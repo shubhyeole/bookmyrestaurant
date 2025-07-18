@@ -81,10 +81,6 @@ http://localhost:8080/bookmyrestaurant
 
 ---
 
-## 📸 Screenshots (Optional)
-> Add screenshots of Admin Panel, Table Booking Page for better presentation.
-
----
 
 ## 🎯 What I Learned
 - Real-world application of **Java Web Development** (Servlets, JDBC)
