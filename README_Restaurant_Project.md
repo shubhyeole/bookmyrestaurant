@@ -69,7 +69,7 @@ Database (MySQL)
 ## 📥 How to Run Locally
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/bookmyrestaurant.git
+git clone https://github.com/shubhyeole/bookmyrestaurant.git
 ```
 2. Open the project in **Eclipse / IntelliJ IDEA**.
 3. Set up **MySQL database** and configure connection details in the DAO layer.
